@@ -1,10 +1,38 @@
 # Personalhandbok - Code Labs
 
+## Innehållsförteckning
+
+1. [Introduktion - Code Labs](#introduktion---code-labs)
+2. [Anhöriginformation](#anhöriginformation)
+3. [Introduktionsplan](#introduktionsplan)
+4. [Kultur](#kultur)
+5. [Klädpolicy](#klädpolicy)
+6. [Arbetstider](#arbetstider)
+7. [Tidrapportering](#tidrapportering)
+8. [Sjukfrånvaro](#sjukfrånvaro)
+9. [Semester](#semester)
+10. [Permission](#permission)
+11. [Tjänstledighet](#tjänstledighet)
+12. [Lönepolicy](#lönepolicy)
+13. [Pension och försäkringar](#pension-och-försäkringar)
+14. [Löneväxling](#löneväxling)
+15. [Ersättning vid föräldraledighet](#ersättning-vid-föräldraledighet)
+16. [Hälso- och friskvård](#hälso--och-friskvård)
+17. [Terminalglasögon](#terminalglasögon)
+18. [Traktamente](#traktamente)
+19. [Förmånsbilar](#förmånsbilar)
+20. [Tipspolicy](#tipspolicy)
+21. [Kompetensutveckling](#kompetensutveckling)
+22. [Arbetsmiljö](#arbetsmiljö)
+23. [Alkohol & missbruk](#alkohol--missbruk)
+24. [Mobiltelefon](#mobiltelefon)
+25. [Kontaktpersoner](#kontaktpersoner)
+
 ## Introduktion - Code Labs
 
 Välkommen till Code Labs! I denna personalhandbok hittar du information och riktlinjer som gäller för dig som arbetar på Code Labs. Vi strävar efter att erbjuda en arbetsmiljö där alla trivs och känner sig uppskattade. Denna handbok revideras årligen och beslutas av ledningsgruppen.
 
-### Code Labs
+### Om Code Labs
 
 Code Labs är det personliga IT-konsultbolaget som erbjuder kunden specialister inom Tech och Management. Vi hjälper människor och företag att nå sin fulla potential.
 

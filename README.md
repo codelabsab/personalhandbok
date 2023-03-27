@@ -146,24 +146,58 @@ På Code Labs är vi måna om att ständigt utveckla och förbättra våra anst�
 
 Code Labs värnar om en god arbetsmiljö för alla medarbetare och strävar efter att följa gällande arbetsmiljölagstiftning. Vi arbetar aktivt med att förbättra arbetsmiljön genom att identifiera och åtgärda risker och problem. Om du upplever några arbetsmiljöproblem, kontakta din närmsta chef eller skyddsombud.
 
-## Alkohol & missbruk
+### Alkohol & missbruk
 
-Code Labs har en strikt policy gällande alkohol och droger på arbetsplatsen. Användning av alkohol eller droger under arbetstid eller på företagets område är förbjudet och kan leda till disciplinära åtgärder. Om du misstänker att en kollega har problem med alkohol eller droger, uppmuntras du att rapportera detta till din närmsta chef eller HR-avdelningen. Code Labs erbjuder stöd och hjälp till medarbetare som kämpar med missbruk, och vi uppmanar alla att söka hjälp om de behöver det.
+Code Labs har en strikt policy gällande alkohol och droger. Anställda får inte vara påverkade av alkohol eller droger under arbetstid. Alkohol är endast tillåtet vid företagsevenemang där ledningen uttryckligen har godkänt dess konsumtion. Missbruk av alkohol eller droger kommer att leda till omedelbara åtgärder, inklusive uppsägning.
 
-## Mobiltelefon
+### Sociala medier
 
-Code Labs tillhandahåller mobiltelefoner till anställda som behöver det för att utföra sitt arbete. Mobiltelefonen är avsedd för arbetsrelaterad kommunikation och får användas för privat bruk i måttlig utsträckning. För mer information om mobiltelefonpolicy och hur du ansöker om en mobiltelefon, kontakta din närmsta chef eller IT-avdelningen.
+Anställda är välkomna att använda sociala medier, men bör göra det ansvarsfullt och respektera företagets värderingar och sekretesspolicy. Dela inte konfidentiell information om företaget, kunder eller medarbetare på sociala medier. Försök att hålla en professionell ton och undvik att skada företagets rykte.
 
-## Kontaktpersoner
+### Klädkod
 
-Om du har frågor eller funderingar kring något av ovanstående ämnen eller något annat relaterat till din anställning, är du välkommen att kontakta följande personer:
+Code Labs har en avslappnad klädkod, men vi förväntar oss att anställda klär sig på ett sätt som är lämpligt för deras arbetsmiljö. Kläder bör vara rena och välskötta. Undvik kläder med stötande budskap eller bilder.
 
-- HR-avdelningen: För frågor om anställningsvillkor, förmåner, rekrytering och personalrelaterade frågor.
-- Din närmsta chef: För frågor om arbetsuppgifter, arbetsmiljö, kompetensutveckling och annat som rör din dagliga arbetsliv.
-- IT-avdelningen: För frågor om teknisk utrustning, som datorer och mobiltelefoner, samt teknisk support.
-- Ekonomiavdelningen: För frågor om lön, traktamente och andra ekonomiska ärenden.
+### Sjukdom & ledighet
 
-Code Labs strävar efter att erbjuda en positiv och stödjande arbetsmiljö där medarbetarna kan trivas och utvecklas. Tveka inte att kontakta någon av ovanstående kontaktpersoner om du behöver hjälp eller stöd.
+Om du är sjuk och inte kan arbeta, meddela din chef så snart som möjligt. Vid sjukdom som varar längre än två dagar kan ett läkarintyg krävas. Om du behöver ta ledigt av någon annan anledning, diskutera det med din chef i förväg.
 
+### Semester
 
+Anställda får betald semester enligt lagstadgade rättigheter och företagets policy. För att boka semester, skicka in en semesteransökan till din chef minst två veckor i förväg. Chefen kommer att överväga din ansökan och godkänna den om det inte finns några arbetsrelaterade problem.
 
+### Arbetsmiljö
+
+Code Labs strävar efter att skapa en positiv och säker arbetsmiljö för alla anställda. Om du upplever diskriminering, trakasserier eller annan olämplig behandling, rapportera det omedelbart till din chef eller HR-avdelningen.
+
+### Utvärdering & utveckling
+
+Anställda genomgår regelbundna utvärderingar av sin arbetsprestation och får feedback från sina chefer. Utvärderingar är en möjlighet att diskutera din utveckling, sätta mål och identifiera områden för förbättring. Code Labs erbjuder också möjligheter till yrkesutveckling genom interna och externa utbildningar.
+
+### Uppsägning & avsked
+
+Code Labs förbehåller sig rätten att avsluta anställningsförhållanden på grundval av arbetsprestation, uppförande eller affärsbehov. Anställda måste också följa lagstadgade uppsägningstider och avskedsklausuler.
+
+### Konfidentiell information
+
+Anställda har ofta tillgång till känslig och konfidentiell information om Code Labs, dess kunder och affärspartners. Det är viktigt att skydda sådan information och inte dela den med obehöriga. Vid avslutad anställning måste alla konfidentiella material återlämnas och inga kopior får behållas.
+
+### Dataskydd
+
+Code Labs följer gällande dataskyddslagstiftning och respekterar anställdas och kunders rätt till privatliv. Anställda måste följa företagets dataskyddspolicy och vidta nödvändiga åtgärder för att skydda personuppgifter.
+
+### Intellektuell egendom
+
+Allt arbete som skapas av anställda i samband med deras anställning hos Code Labs, inklusive patent, upphovsrätt och varumärken, anses vara Code Labs intellektuella egendom. Anställda får inte använda, kopiera eller distribuera sådant material utan uttryckligt tillstånd från företaget.
+
+### Etiska riktlinjer
+
+Code Labs är engagerade i att upprätthålla högsta etiska normer och väntar sig att anställda ska agera i enlighet med dessa normer. Detta innebär att uppträda ärligt, rättvist och med respekt för andra, samt att följa gällande lagar och regler. Eventuella överträdelser av dessa riktlinjer kan leda till disciplinära åtgärder, inklusive uppsägning.
+
+### Klagomål & problem
+
+Om du har några klagomål, problem eller funderingar som rör din arbetsplats, vänligen ta upp dem med din chef eller HR-avdelningen. Code Labs värdesätter öppen kommunikation och kommer att göra sitt bästa för att lösa eventuella problem på ett rättvist och snabbt sätt.
+
+### Policyändringar
+
+Code Labs förbehåller sig rätten att ändra, uppdatera eller ersätta delar av denna företagsmanual när som helst och utan föregående meddelande. Anställda kommer att informeras om sådana ändringar och förväntas följa de uppdaterade riktlinjerna.

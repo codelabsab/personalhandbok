@@ -92,28 +92,50 @@ Medarbetare som arbetar på Code Labs har vid föräldraledighet rätt till ers�
 
 ## Hälso- och friskvård
 
-Friskvårdsbidrag: 5 000 kr
+Code Labs värnar om medarbetarnas hälsa och erbjuder därför alla anställda ett friskvårdsbidrag på upp till 5 000 kr per år. Friskvårdsbidraget kan användas för att bekosta aktiviteter som främjar fysisk och psykisk hälsa, till exempel gymmedlemskap, simning, yoga eller gruppträning.
 
 ## Terminalglasögon
 
+Om du som anställd på Code Labs behöver terminalglasögon för att utföra ditt arbete, bekostar Code Labs glasögonen inklusive synundersökning hos en optiker. Kontakta din närmsta chef för mer information om hur du går tillväga.
+
 ## Traktamente
+
+Om du som anställd behöver resa i tjänsten kan du vara berättigad till traktamente. Traktamente är en ersättning för merkostnader som uppkommer i samband med tjänsteresor, exempelvis för måltider och logi. För mer information om traktamentsregler och hur du ansöker om traktamente, kontakta ekonomiavdelningen.
 
 ## Förmånsbilar
 
-Leasa Tesla
+Code Labs erbjuder möjligheten att leasa en Tesla som förmånsbil. Förmånsbilen är en bil som företaget hyr och som du som anställd kan använda både i tjänsten och privat. För mer information om villkor och kostnader för förmånsbilar, kontakta din närmsta chef.
 
 ## Tipspolicy
 
-Rekryteringstips / Uppdragstips
+Code Labs uppmuntrar medarbetare att tipsa om potentiella rekryteringar eller uppdrag genom att erbjuda en bonus för framgångsrika tips. Om ditt tips leder till en anställning eller ett nytt uppdrag för företaget kan du bli belönad med en bonus. Kontakta HR-avdelningen för mer information om belopp och villkor.
 
 ## Kompetensutveckling
 
+På Code Labs är vi måna om att ständigt utveckla och förbättra våra anställdas kompetens. Vi erbjuder möjligheter till intern och extern kompetensutveckling, såsom kurser, konferenser och workshops. Diskutera med din närmsta chef om vilka möjligheter som finns för din kompetensutveckling.
+
 ## Arbetsmiljö
+
+Code Labs värnar om en god arbetsmiljö för alla medarbetare och strävar efter att följa gällande arbetsmiljölagstiftning. Vi arbetar aktivt med att förbättra arbetsmiljön genom att identifiera och åtgärda risker och problem. Om du upplever några arbetsmiljöproblem, kontakta din närmsta chef eller skyddsombud.
 
 ## Alkohol & missbruk
 
+Code Labs har en strikt policy gällande alkohol och droger på arbetsplatsen. Användning av alkohol eller droger under arbetstid eller på företagets område är förbjudet och kan leda till disciplinära åtgärder. Om du misstänker att en kollega har problem med alkohol eller droger, uppmuntras du att rapportera detta till din närmsta chef eller HR-avdelningen. Code Labs erbjuder stöd och hjälp till medarbetare som kämpar med missbruk, och vi uppmanar alla att söka hjälp om de behöver det.
+
 ## Mobiltelefon
 
+Code Labs tillhandahåller mobiltelefoner till anställda som behöver det för att utföra sitt arbete. Mobiltelefonen är avsedd för arbetsrelaterad kommunikation och får användas för privat bruk i måttlig utsträckning. För mer information om mobiltelefonpolicy och hur du ansöker om en mobiltelefon, kontakta din närmsta chef eller IT-avdelningen.
+
 ## Kontaktpersoner
+
+Om du har frågor eller funderingar kring något av ovanstående ämnen eller något annat relaterat till din anställning, är du välkommen att kontakta följande personer:
+
+- HR-avdelningen: För frågor om anställningsvillkor, förmåner, rekrytering och personalrelaterade frågor.
+- Din närmsta chef: För frågor om arbetsuppgifter, arbetsmiljö, kompetensutveckling och annat som rör din dagliga arbetsliv.
+- IT-avdelningen: För frågor om teknisk utrustning, som datorer och mobiltelefoner, samt teknisk support.
+- Ekonomiavdelningen: För frågor om lön, traktamente och andra ekonomiska ärenden.
+
+Code Labs strävar efter att erbjuda en positiv och stödjande arbetsmiljö där medarbetarna kan trivas och utvecklas. Tveka inte att kontakta någon av ovanstående kontaktpersoner om du behöver hjälp eller stöd.
+
 
 

@@ -1,2 +1,113 @@
-# personalhandbok
-Personalhandbok
+# Personalhandbok - Code Labs
+
+## Introduktion - Code Labs
+
+Här får du information om vad som gäller för dig som arbetar på Code Labs. Dokumentet ger dig riktlinjer för vad vi förväntar oss av dig som medarbetare och vad du kan förvänta dig av Code Labs som arbetsgivare. Villkor och riktlinjer i denna personalhandbok beslutas av ledningsgruppen och revideras årligen.
+
+### Code Labs
+
+Code Labs är det personliga IT-konsultbolaget som erbjuder kunden specialister inom Tech och Management. Vi hjälper människor och företag att nå sin fulla potential.
+
+#### Code Labs företagsaddress:
+
+Stockholm:
+
+Artillerigatan 6, 114 51 Stockholm
+08-128 164 00
+
+Organisationsnummer: 559064-2442
+Momsregistreringsnummer: SE559064244201
+
+## Anhöriginformation
+
+Vid anställning fyller du ett Anställningsbevis. Där fyller du i kontaktinformation till din närmaste anhörig, den person du vill att vi ska kontakta vid händelse av olycka eller sjukdom.
+Vi ber dig att uppdatera den här informationen vid eventuella förändringar (finance@codelabs.se) Introduktionsplan
+Alla nya medarbetare skall känna sig välkomna och uppskattade på Code Labs. Varje ny medarbetare får en introduktionsplan. Den ska underlätta för att komma igång i arbetet och känna trygghet i teamet.
+
+## Introduktionsplan
+
+## Kultur (Företagets absoluta grundvärderingar)
+
+## Klädpolicy (inga flipflops, slitna kläder)
+
+## Arbetstider (Normal arbetstid är 40 timmar per vecka, exklusive lunch)
+
+För konsulter ute hos kund regleras daglig arbetstid enligt kontrakt som föreligger mellan kund och konsult. Konsulter som är anställda av Code Labs som inte är kontrakterad av kund 100 % av arbetstiden ska stå till Code Labs’s förfogande och jobba internt den icke debiterbara tiden. Detsamma gäller i de fall då kunden har stängt andra dagar än Code Labs (exempelvis klämdagar).
+
+## Tidrapportering
+
+Hela månadens tidrapport ska vara färdig den sista arbetsdagen i månaden, senast vid arbetsdagens slut. Görs på https://timereport.vercel.app/ internt där man rapporterar avvikelser.
+
+## Sjukfrånvaro
+
+Vid sjukdom eller vård av barn är det viktigt att du meddelar detta till kunden och till din närmsta chef och finance på Code Labs. Det behöver göras redan dag 1 vid sjukdom. Det går bra att göra sjukanmälan via telefon eller mail till Code Labs.
+
+## Semester
+
+Semesteråret räknas från 1 april – 31 mars. Du har rätt till 25 dagar semester + 5 dagar som kompensation
+
+för att övertidsersättning inte betalas.
+Semesteruttag ska ske kopplat till den verksamhet i vilken man arbetar. Exempelvis ska man som konsult i största möjliga mån vara ledig när kunden är ledig. Dvs, stänger kunden för konsulter under juli månad bör man som konsult hos sådan kund förlägga sin semester under denna period. Detsamma gäller samtliga, exempelvis säljare tar semester när kunderna är lediga.
+Alla medarbetare ska ta ut minst 20 semesterdagar per semesterår. Överskjutande dagar kan sparas i max 5 år.
+
+Om du som nyanställd inte hunnit tjäna in semesterdagar när semesterperioden infaller erbjuder Code Labs möjligheten att ta ut förskottssemester. Förskottssemester innebär i korthet att du får behålla ordinarie lön under 30 obetalda semesterdagar. Du får inget semestertillägg för dessa dagar. Förskottssemester är frivilligt att nyttja, och dagarna kan inte sparas till kommande år. Värdet av nyttjade förskottssemesterdagar ska återbetalas till Code Labs om du själv avslutar din anställning inom 5 år (avräknas på slutlönen). Avräkning får dock inte ske om du har blivit uppsagd på grund av arbetsbrist eller sjukdom.
+
+## Permission
+
+Code Labs erbjuder alla medarbetare permission, dvs en dags ledighet utan löneavdrag, när nedan omständighet råder:
+• Nära anhörigs död
+• Nära anhörigs begravning
+• Nära anhörig blir svårt sjuk
+Som nära anhörig räknas make/maka, sambo, partner, förälder, barn, mor- far- och svärförälder.
+
+## Tjänstledighet
+
+Tjänstledighet (innebär ledighet med löneavdrag. Ledigheten ska alltid begäras skriftligt, minst 3 månader före tänkt start. Denna form av ledighet kan i vissa fall vara garanterad i lag eller avtal (ex föräldraledighet och studieledighet). I övriga fall förbehåller sig Code Labs sig rätten att bevilja eller neka begäran om tjänstledighet.)
+
+## Lönepolicy (Lönen betalas ut den 25 innevarande månad)
+
+## Pension och försäkringar
+
+För samtliga medarbetare görs en pensionsavsättning på 4,5 % av grundlönen. Utöver detta kan individuella anpassningar mellan medarbetare och arbetsgivare göras. Alla anställda medarbetare omfattas av pensionspolicyn från och med anställningens början.
+Pensionsavsättning utfaller på Code Labs även vid föräldraledighet, däremot inte vid längre tjänstledighet (tjänstledighet över 2 månader).
+Medarbetare på Code Labs
+
+omfattas av pensionspolicy premier till tjänstepensionsförsäkringar innehållandes:
+• Ålderspension & återbetalningsskydd
+• Familjepension
+• Premiebefrielse
+• Sjukförsäkring
+• TGL-tjänstegrupplivförsäkring
+• Olycksfallsförsäkring
+Policy pension och försäkring
+
+## Löneväxling
+
+Löneväxling innebär att den anställde tar delar av ett köp eller en avsättning direkt från sin bruttolön. Det kan endast göras efter godkännande från CFO. Code Labs erbjuder löneväxling för pensionsavsättning och sjukvårdsförsäkring.
+I de fall en medarbetare önskar en annan modell av material/arbetsredskap såsom exempelvis mobiltelefon eller dator än de som ryms inom Code Labs policy kan medarbetaren efter överenskommelse med närmsta chef betala den överskjutande delen via nettCLvdrag på lön. I dessa fall äger Code Labs materialet även om medarbetaren har bidragit till kostnaden. Nettolöneavdraget beräknas på kostnaden inklusive moms.
+
+## Ersättning vid föräldraledighet
+
+Medarbetare som arbetar på Code Labs har vid föräldraledighet rätt till ersättning om 5 000 kr/månad de första 6 månaderna. Det krävs ett minimum om 2 månader heltid sammanhängande föräldraledighet för att ersättningen skall utbetalas.
+Om man säger upp sig själv inom sex månader efter föräldraledighetens sista dag blir man återbetalningsskyldig av hela den utbetalda föräldraersättningen från Code Labs.
+
+## Hälso- och friskvård (Friskvårdsbidrag: 5 000 kr)
+
+## Terminalglasögon
+
+## Traktamente
+
+## Förmånsbilar (leasa tesla)
+
+## Tipspolicy (Rekryteringstips / Uppdragstips)
+
+## Kompetensutveckling
+
+## Arbetsmiljö
+
+## Alkohol & missbruk
+
+## Mobiltelefon
+
+## Kontaktpersoner
+

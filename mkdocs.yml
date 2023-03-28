@@ -1,0 +1,29 @@
+site_name: Personalhandbok
+theme:
+  name: dracula
+nav:
+  - Introduktion: index.md
+  - Anhöriginformation: anhöriginformation.md
+  - Introduktionsplan: introduktionsplan.md
+  - Kultur: kultur.md
+  - Klädpolicy: klädpolicy.md
+  - Arbetstider: arbetstider.md
+  - Tidrapportering: tidrapportering.md
+  - Sjukfrånvaro: sjukfrånvaro.md
+  - Semester: semester.md
+  - Permission: permission.md
+  - Tjänstledighet: tjänstledighet.md
+  - Lönepolicy: lönepolicy.md
+  - Pension och försäkringar: pension-och-försäkringar.md
+  - Löneväxling: löneväxling.md
+  - Ersättning vid föräldraledighet: ersättning-vid-föräldraledighet.md
+  - Hälso- och friskvård: hälso--och-friskvård.md
+  - Terminalglasögon: terminalglasögon.md
+  - Traktamente: traktamente.md
+  - Förmånsbilar: förmånsbilar.md
+  - Tipspolicy: tipspolicy.md
+  - Kompetensutveckling: kompetensutveckling.md
+  - Arbetsmiljö: arbetsmiljö.md
+  - Alkohol & missbruk: alkohol--missbruk.md
+  - Mobiltelefon: mobiltelefon.md
+  - Kontaktpersoner: kontaktpersoner.md

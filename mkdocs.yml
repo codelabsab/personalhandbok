@@ -9,6 +9,7 @@ extra:
       Vi använder kakor för att förbättra din upplevelse av vår webbplats. Genom att fortsätta använda vår webbplats godkänner du vår användning av kakor.
 theme:
   name: material
+  custom_dir: overrides
   lang: sv
   logo: assets/codelabs.svg
   font:

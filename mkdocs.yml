@@ -1,4 +1,6 @@
-site_name: ""
+site_name: "Code Labs - Personalhandboken"
+site_description: "En personalhandbok för anställda på Code Labs AB"
+site_author: "Code Labs AB"
 extra_css:
   - stylesheets/extra.css
 extra:

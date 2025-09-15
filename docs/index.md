@@ -9,14 +9,19 @@ Vi är specialister som brinner för DevOps och Cloud.
 Vi har kunder som Klarna, Mojang och Toptracer. Det som gör att kollegor stannar (vissa sen start) är gemenskapen och möjligheter till att utvecklas på många plan.
 
 ## Företagsinformation
+
 **Adress**
+
 Södra Kungsvägen 68, 181 32 Lidingö
 
 **Telefonnummer växeln**
+
 08-128 164 00
 
 **Bolag**
+
 Organisationsnummer: 559064-2442
+
 Momsregistreringsnummer: SE559064244201
 
 ---

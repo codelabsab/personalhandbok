@@ -218,7 +218,7 @@ Code Labs förbehåller sig rätten att ändra, uppdatera eller ersätta delar a
 
 ## Länkar
 * **Code Labs hemsida:** https://www.codelabs.se/ 
-* **Finflow tidrapportering:** app.finflow.se 
+* **Finflow tidrapportering:** https://app.finflow.se 
 * **Friskvård- aktiviteter som inkluderas (Skatteverket):** https://www.skatteverket.se/privat/skatter/arbeteochinkomst/formaner/personalvardmotionochfriskvard.4.7459477810df5bccdd4800014540.html 
 
 ---

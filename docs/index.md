@@ -137,9 +137,14 @@ Pensionspolicy premier till tjänstepensionsförsäkringar innehållandes:
 
 ## Hälso- och friskvård
 Code Labs värnar om medarbetarnas hälsa och erbjuder därför alla anställda ett friskvårdsbidrag på upp till 5 000 kr per år. Friskvårdsbidraget kan användas för att bekosta aktiviteter som främjar fysisk och psykisk hälsa, till exempel medlemskap på gym, simning, yoga eller gruppträning.
-Läs mer om vilka aktiviteter som godkäns; https://www.skatteverket.se/privat/skatter/arbeteochinkomst/formaner/personalvardmotionochfriskvard.4.7459477810df5bccdd4800014540.html 
+Läs mer om vilka aktiviteter som godkäns: 
 
-Vårt förmånsblad: https://docs.google.com/document/d/1dGpjxK9EXiWzaiFLuz3oWr31Le5MvdfPyDJtr_z2SMk/edit?tab=t.0 
+https://www.skatteverket.se/privat/skatter/arbeteochinkomst/formaner/personalvardmotionochfriskvard.4.7459477810df5bccdd4800014540.html 
+
+Vårt förmånsblad: 
+
+https://docs.google.com/document/d/1dGpjxK9EXiWzaiFLuz3oWr31Le5MvdfPyDJtr_z2SMk/edit?tab=t.0 
+
 Hör av dig till HR- avdelningen för vidare frågor om friskvård. 
 
 ---
@@ -222,9 +227,11 @@ Code Labs förbehåller sig rätten att ändra, uppdatera eller ersätta delar a
 ---
 
 ## Länkar
-* **Code Labs hemsida:** https://www.codelabs.se/ 
-* **Finflow tidrapportering:** https://app.finflow.se 
-* **Friskvård- aktiviteter som inkluderas (Skatteverket):** https://www.skatteverket.se/privat/skatter/arbeteochinkomst/formaner/personalvardmotionochfriskvard.4.7459477810df5bccdd4800014540.html 
+* **Code Labs hemsida:** [codelabs](https://www.codelabs.se/)
+* **Finflow tidrapportering:** [finflow](https://app.finflow.se)
+* **Friskvård- aktiviteter som inkluderas (Skatteverket):**
+
+[skatteverket](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/formaner/personalvardmotionochfriskvard.4.7459477810df5bccdd4800014540.html)
 
 ---
 

@@ -1,0 +1,114 @@
+{
+  "projectTitle": "Code Labs Personalhandbok",
+  "projectDescription": "Personalhandbok för Code Labs AB - All information som gäller för dig som arbetar här. Vi är specialister som brinner för DevOps och Cloud.",
+  "projectURL": "https://personalhandbok.codelabs.se",
+  "locale": "sv",
+  "text": {
+    "Tags": "Taggar",
+    "Last Update": "Senast uppdaterad",
+    "Toggle color mode": "Växla färgläge (T)",
+    "Toggle dark mode": "Växla mörkt läge (T)",
+    "Toggle light mode": "Växla ljust läge (T)",
+    "Copy to clipboard": "Kopiera till urklipp",
+    "Copy link": "Kopiera länk till denna rubrik",
+    "Copy": "Kopiera",
+    "Copied!": "Kopierat!",
+    "Page Contents": "Sidinnehåll",
+    "Toggle mobile sidebar": "Växla mobilmeny",
+    "Previous chapter": "Föregående avsnitt (<-)",
+    "Next chapter": "Nästa avsnitt (->)",
+    "Figure": "Figur"
+  },
+  "navbarItems": [
+    {
+      "title": "Hem",
+      "path": "/intro"
+    },
+    {
+      "title": "Om Code Labs",
+      "path": "/om-codelabs"
+    },
+    {
+      "title": "Anställning",
+      "path": "/anstallning"
+    },
+    {
+      "title": "Förmåner",
+      "path": "/formaner"
+    },
+    {
+      "title": "Policys",
+      "path": "/policys"
+    },
+    {
+      "title": "Kontakt",
+      "path": "/kontakt"
+    }
+  ],
+  "toc": [
+    {
+      "chapters": [{ "title": "Välkommen till Code Labs", "path": "/intro" }]
+    },
+    {
+      "part": "Om Code Labs",
+      "chapters": [
+        { "title": "Företagsinformation", "path": "/om-codelabs/foretagsinformation" },
+        { "title": "Introduktionsplan", "path": "/om-codelabs/introduktionsplan" },
+        { "title": "Kultur", "path": "/om-codelabs/kultur" },
+        { "title": "Kontor", "path": "/om-codelabs/kontor" }
+      ]
+    },
+    {
+      "part": "Anställning",
+      "chapters": [
+        { "title": "Arbetstider", "path": "/anstallning/arbetstider" },
+        { "title": "Övertid", "path": "/anstallning/overtid" },
+        { "title": "Tidrapportering", "path": "/anstallning/tidrapportering" },
+        { "title": "Semester", "path": "/anstallning/semester" },
+        { "title": "Sjukfrånvaro", "path": "/anstallning/sjukfranvaro" },
+        { "title": "Permission", "path": "/anstallning/permission" },
+        { "title": "Tjänstledighet", "path": "/anstallning/tjanstledighet" },
+        { "title": "Föräldraledighet", "path": "/anstallning/foraldraledighet" },
+        { "title": "Utvärdering & utveckling", "path": "/anstallning/utvardering" },
+        { "title": "Kompetensutveckling", "path": "/anstallning/kompetensutveckling" },
+        { "title": "Uppsägning & avsked", "path": "/anstallning/uppsagning" }
+      ]
+    },
+    {
+      "part": "Förmåner",
+      "chapters": [
+        { "title": "Lön", "path": "/formaner/lon" },
+        { "title": "Löneväxling", "path": "/formaner/lonevaxling" },
+        { "title": "Bruttolöneavdrag", "path": "/formaner/bruttoloneavdrag" },
+        { "title": "Utlägg", "path": "/formaner/utlagg" },
+        { "title": "Pension och försäkringar", "path": "/formaner/pension" },
+        { "title": "Hälso- och friskvård", "path": "/formaner/friskvard" },
+        { "title": "Terminalglasögon", "path": "/formaner/terminalglasogon" },
+        { "title": "Förmånsbilar", "path": "/formaner/formansbilar" },
+        { "title": "Traktamente", "path": "/formaner/traktamente" },
+        { "title": "Tips Policy", "path": "/formaner/tips-policy" }
+      ]
+    },
+    {
+      "part": "Policys",
+      "chapters": [
+        { "title": "Klädpolicy", "path": "/policys/kladpolicy" },
+        { "title": "Sociala medier", "path": "/policys/sociala-medier" },
+        { "title": "Arbetsmiljö", "path": "/policys/arbetsmiljo" },
+        { "title": "Etiska riktlinjer", "path": "/policys/etiska-riktlinjer" },
+        { "title": "Alkohol & missbruk", "path": "/policys/alkohol-missbruk" },
+        { "title": "Konfidentiell information", "path": "/policys/konfidentiell-information" },
+        { "title": "Dataskydd", "path": "/policys/dataskydd" },
+        { "title": "Intellektuell egendom", "path": "/policys/intellektuell-egendom" }
+      ]
+    },
+    {
+      "part": "Kontakt & Hjälp",
+      "chapters": [
+        { "title": "Kontaktpersoner", "path": "/kontakt/kontaktpersoner" },
+        { "title": "Klagomål & problem", "path": "/kontakt/klagomal" },
+        { "title": "Länkar", "path": "/kontakt/lankar" }
+      ]
+    }
+  ]
+}

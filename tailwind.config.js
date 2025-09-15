@@ -9,7 +9,8 @@ module.exports = {
   theme: {
     colors: {
       transparent: 'transparent',
-      gray: colors.slate
+      gray: colors.slate,
+      purple: colors.purple
     },
     extend: {}
   }

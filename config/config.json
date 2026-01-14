@@ -85,8 +85,7 @@
         { "title": "Hälso- och friskvård", "path": "/formaner/friskvard" },
         { "title": "Terminalglasögon", "path": "/formaner/terminalglasogon" },
         { "title": "Förmånsbilar", "path": "/formaner/formansbilar" },
-        { "title": "Traktamente", "path": "/formaner/traktamente" },
-        { "title": "Tips Policy", "path": "/formaner/tips-policy" }
+        { "title": "Traktamente", "path": "/formaner/traktamente" }
       ]
     },
     {

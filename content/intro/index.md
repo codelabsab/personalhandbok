@@ -27,6 +27,6 @@ Använd menyn till vänster för att navigera mellan olika avsnitt i personalhan
 
 ## Snabblänkar
 
-- [[Excel Tidrapportering)](https://docs.google.com/spreadsheets/d/1tivwCccIZ0pI3542zr-LqSijQFHnPyZIpk1uDAXqE8c/edit?gid=154123441#gid=154123441)
+- [Excel tidrapportering][(https://docs.google.com/spreadsheets/d/1tivwCccIZ0pI3542zr-LqSijQFHnPyZIpk1uDAXqE8c/edit?gid=154123441#gid=154123441)
 - [Code Labs hemsida](https://www.codelabs.se/)
 - [Förmånsblad](https://docs.google.com/document/d/1dGpjxK9EXiWzaiFLuz3oWr31Le5MvdfPyDJtr_z2SMk/edit?tab=t.0)

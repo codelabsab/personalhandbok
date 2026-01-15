@@ -7,6 +7,10 @@ description: "Information om friskvårdsbidrag och godkända aktiviteter"
 
 Code Labs värnar om medarbetarnas hälsa och erbjuder därför alla anställda ett friskvårdsbidrag på upp till 5 000 kr per år. Friskvårdsbidraget kan användas för att bekosta aktiviteter som främjar fysisk och psykisk hälsa, till exempel medlemskap på gym, simning, yoga eller gruppträning.
 
+--> Friskvård kan faktureras till (om inget betalats på plats: invoice@codelabs.se
+
+--> Utlägg görs i Fortnox app, inlogg fås från närmaste chef. 
+
 Läs mer om vilka aktiviteter som godkäns:
 
 https://www.skatteverket.se/privat/skatter/arbeteochinkomst/formaner/personalvardmotionochfriskvard.4.7459477810df5bccdd4800014540.html

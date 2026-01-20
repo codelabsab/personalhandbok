@@ -28,4 +28,4 @@ Code Labs erbjuder ett förmånskort som syftar till att subventionera medarbeta
 
 Förmånskortet kan användas som betalkort hos anslutna restauranger och butiker, som går att hitta via deras app.
 
-Kortet laddas med 2 900 kronor per månad, vanligtvis omkring den 25:e. Av detta belopp görs ett löneavdrag motsvarande 30 procent, vilket innebär att resterande del utgör en subvention från Code Labs.
+Kortet laddas med 2 900 kronor per månad, vanligtvis omkring den 25:e. Av detta belopp görs ett löneavdrag motsvarande 70 procent, vilket innebär att resterande del utgör en subvention från Code Labs.

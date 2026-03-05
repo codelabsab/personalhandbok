@@ -1,1 +1,1 @@
-{"name": "my-project", "version": "1.0.0", "dependencies": {"next": "latest", "react": "latest", "react-dom": "latest", "next-mdx-remote": "6.0.0"}}
+{"name": "personalhandbok", "version": "1.0.0", "dependencies": {"next-mdx-remote": "^6.0.0"}}
